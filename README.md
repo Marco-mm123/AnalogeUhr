@@ -1,6 +1,6 @@
 # AnalogeUhr
 
-Dieses Projekt nutzt HTML, CSS und JavaScript um eine Webseite mit einer Uhr welche die Aktuelle Zeit anzeigt.
+Dieses Projekt nutzt HTML, CSS und JavaScript für die Darstellung einer Uhr welche die Aktuelle Zeit anzeigt.
 
 ## Funktionen
 
