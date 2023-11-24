@@ -30,6 +30,22 @@ body {
     top: 50%;
     left: 50%;
     transform-origin: 50% 100%;
+    z-index: 1;
+}
+
+.marking-one{
+    top: 95%;
+}
+.marking-two{
+    top: 5%;
+}
+.marking-three{
+    left: 95%;
+    transform: rotate(90deg);
+}
+.marking-four{
+    left: 5%;
+    transform: rotate(270deg);
 }
 
 .inner-clock-face {
@@ -42,6 +58,7 @@ body {
     justify-content: center;
     align-items: center;
     overflow: hidden; 
+    z-index: 0;
 }
 
 .hand {
@@ -59,6 +76,7 @@ body {
 }
 
 .min-hand {
+    background: #4f4f4f;
     width: 8px;
     height: 50%;
     top: 0%; 
