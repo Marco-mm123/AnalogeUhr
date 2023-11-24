@@ -69,7 +69,7 @@ body {
 
 .hour-hand {
     width: 4vmin;
-    height: 50%; /*weiss nöd bro da isch vorher 50 % gsi*/
+    height: 50%;
     top: 0%;
     left: 50%; 
     transform: translate(-50%, -100%); 
@@ -78,7 +78,7 @@ body {
 .min-hand {
     background: #4f4f4f;
     width: 1.6vmin;
-    height: 50%; /*Da isch au 50% gsi*/
+    height: 50%;
     top: 0%; 
     left: 50%; 
     transform: translate(-50%, -100%); 
@@ -87,7 +87,7 @@ body {
 .second-hand {
     background: red;
     width: 1vmin;
-    height: 50%; /*Au 50 % gsi*/
+    height: 50%;
     top: 0%;
     left: 50%; 
     transform: translate(-50%, -100%);
